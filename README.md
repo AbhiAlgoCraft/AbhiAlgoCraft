@@ -24,3 +24,19 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,react,fastapi,html,css,js,mysql,git,github,vscode" />
 </p>
+
+## 🌱 Currently Learning
+
+- 📘 Data Structures & Algorithms (Java)
+- ⚛️ React.js
+- 🎯 FastAPI
+- 🤖 Artificial Intelligence & Machine Learning
+- 🚀 Building real-world software projects
+
+## 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Strengthen DSA in Java
+- 🔄 Build Full-Stack Projects
+- 🔄 Learn AI/ML Fundamentals
+- 🔄 Contribute to Open Source
