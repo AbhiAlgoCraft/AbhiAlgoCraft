@@ -17,3 +17,10 @@
 - 🐍 Learning Python and Java
 - 🌐 Exploring React and FastAPI
 - 📚 Continuously improving my programming and problem-solving skills
+
+ 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,react,fastapi,html,css,js,mysql,git,github,vscode" />
+</p>
