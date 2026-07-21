@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Abhinandan! 👋
 
-<!--
-**AbhiAlgoCraft/AbhiAlgoCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Design Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning React, FastAPI, and Data Structures & Algorithms
+
+🚀 Interested in AI/ML, Full-Stack Development, and Open Source
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech Computer Science & Design Student
+- 💡 Passionate about building real-world software solutions
+- 🐍 Learning Python and Java
+- 🌐 Exploring React and FastAPI
+- 📚 Continuously improving my programming and problem-solving skills
