@@ -1,6 +1,9 @@
-# Hi there, I'm Abhinandan! 👋
+<h1 align="center">Hi 👋, I'm Abhinandan Salunke</h1>
 
-🎓 Computer Science & Design Student
+<h3 align="center">
+Computer Science & Design Student | Python Developer | Java Programmer
+</h3>
+
 
 💻 Passionate about Software Development and Problem Solving
 
@@ -40,3 +43,17 @@
 - 🔄 Build Full-Stack Projects
 - 🔄 Learn AI/ML Fundamentals
 - 🔄 Contribute to Open Source
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiAlgoCraft&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiAlgoCraft&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbhiAlgoCraft&theme=tokyonight&hide_border=true" />
+</p>
