@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Salunke</h1>
 
-<h3 align="center">
-Computer Science & Design Student | Python Developer | Java Programmer
-</h3>
-
+🎓 Computer Science & Design Student
 
 💻 Passionate about Software Development and Problem Solving
 
