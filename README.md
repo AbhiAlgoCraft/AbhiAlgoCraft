@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Salunke</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Design+Student;Python+Developer;Java+Programmer;React+%26+FastAPI+Learner;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Design+Student;Java+Programmer;React+%26+FastAPI+Learner;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 🎓 Computer Science & Design Student
